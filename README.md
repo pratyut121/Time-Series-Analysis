@@ -4,10 +4,15 @@ A time series is a series of measurements on the same variable collected over ti
 Intervals of the Time Series Data
 
 Yearly :- GDP , Macro-economic series
+
 Quarterly :- Revenue of a company.
+
 Monthly:- Sales, Expenditure, salary
+
 Weekly:- Demand , Price of Petrol and diesal
+
 Daily:- Closing price of stock, sensex value, daily transaction of ATM machine
+
 Hourly:- AAQI
 
 Time series analysis can be useful to see how a given asset, security, or economic variable changes over time. It can also be used to examine how the changes associated with the chosen data point compare to shifts in other variables over the same time period.
